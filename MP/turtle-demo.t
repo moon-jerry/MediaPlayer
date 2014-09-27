@@ -1,0 +1,5 @@
+(turtle-clear-instructions)
+(turtle-forward 30 #t)
+(turtle-rotate-in-degrees 45)
+(turtle-forward 30 #t)
+(turtle-forward 30 #f)

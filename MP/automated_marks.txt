@@ -1,0 +1,12 @@
+Marking: Thu Mar  6 12:45:50 2014
+
+Marking record for: Button tests
+2/2 -- button not responsive when not visible
+2/2 -- button not responsive when parent not visible
+2/2 -- button responsive when it and parent are visible
+2/2 -- button responds when mouse down/up within its bounds
+2/2 -- button doesn't respond when mouse up outside its bounds
+2/2 -- button doesn't respond when it is clipped by parent
+0/2 -- buttons visible
+12/14 -- total for: Button tests
+
