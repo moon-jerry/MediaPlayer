@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 #ifndef _SLIDER_H_
 #define _SLIDER_H_
 

@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 
 #ifndef __MOUSEEVENT__
 #define __MOUSEEVENT__

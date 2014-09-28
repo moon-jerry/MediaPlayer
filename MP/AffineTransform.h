@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 
 #ifndef __AFFINETRANSFORM__
 #define __AFFINETRANSFORM__

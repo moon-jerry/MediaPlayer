@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 #ifndef _BUTTON_H_
 #define _BUTTON_H_
 

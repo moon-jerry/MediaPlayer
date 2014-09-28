@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 
 #ifndef __TIMER__
 #define __TIMER__

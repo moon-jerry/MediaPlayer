@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry Yan
 
 #include "Component.h"
 #include "XApplication.h"

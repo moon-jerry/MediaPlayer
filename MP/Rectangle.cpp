@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 
 #include "Rectangle.h"
 #include <algorithm>

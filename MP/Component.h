@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry Yan
 #ifndef __COMPONENT__
 #define __COMPONENT__
 

@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 
 #include "TimerListener.h"
 

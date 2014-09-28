@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry Yan
 
 #ifndef __EVENT_QUEUE__
 #define __EVENT_QUEUE__

@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry Yan
 #ifndef __EVENT__
 #define __EVENT__
 

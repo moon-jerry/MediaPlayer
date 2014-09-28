@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author:Jerry
 
 #ifndef __TIMERLISTENER__
 #define __TIMERLISTENER__

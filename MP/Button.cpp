@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 #include "Button.h"
 #include "XWindow.h"
 #include "Logging.h"

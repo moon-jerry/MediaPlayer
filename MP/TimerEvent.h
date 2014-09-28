@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: jerry
 
 #ifndef __TIMEREVENT__
 #define __TIMEREVENT__

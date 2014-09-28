@@ -1,6 +1,5 @@
 // A2 Unit Tests
-// Author: Michael Terry
-
+// Author: Jerry
 #include "gtest/gtest.h"
 #include <string>
 #include <iostream>

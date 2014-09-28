@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry Yan
 #include "Event.h"
 #include "XWindow.h"
 

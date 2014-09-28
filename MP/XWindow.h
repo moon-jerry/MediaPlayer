@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 
 #ifndef __XWINDOW__
 #define __XWINDOW__

@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 #ifndef __SCHEME_COMPONENT__
 #define __SCHEME_COMPONENT__
 

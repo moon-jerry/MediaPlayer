@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 
 #ifndef __X_APPLICATION__
 #define __X_APPLICATION__

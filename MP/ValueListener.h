@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 #ifndef _VALUELISTENER_H_
 #define _VALUELISTENER_H_
 

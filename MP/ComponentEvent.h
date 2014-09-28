@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry Yan
 
 #ifndef __COMPONENTEVENT__
 #define __COMPONENTEVENT__

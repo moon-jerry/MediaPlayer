@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 
 #ifndef __PAINTEVENT__
 #define __PAINTEVENT__

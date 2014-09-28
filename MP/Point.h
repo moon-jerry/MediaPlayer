@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry 
 
 #ifndef __POINT__
 #define __POINT__

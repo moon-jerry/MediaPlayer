@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry Yan
 #ifndef __GRAPHICS__
 #define __GRAPHICS__
 

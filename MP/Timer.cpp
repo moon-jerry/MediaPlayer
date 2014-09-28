@@ -1,5 +1,4 @@
-// Author: Michael Terry
-
+// Author: Jerry
 #include "Timer.h"
 #include <algorithm>
 

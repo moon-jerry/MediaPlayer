@@ -1,4 +1,4 @@
-// Author: Michael Terry
+// Author: Jerry
 
 #ifndef __RECTANGLE__
 #define __RECTANGLE__
